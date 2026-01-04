@@ -1,0 +1,5 @@
+mcp-server-fastmcp
+requests
+yfinance
+pandas
+
